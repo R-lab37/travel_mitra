@@ -1,6 +1,6 @@
 # Travel Mitra Flutter Website
 
-![Travel Mitra Logo](path_to_logo.png)
+![Travel Mitra Logo](https://github.com/R-lab37/travel_mitra/blob/main/assets/landing_page/images/union_sqv.png)
 
 ## Description
 
